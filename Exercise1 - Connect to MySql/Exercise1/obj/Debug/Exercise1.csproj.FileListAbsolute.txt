@@ -1,0 +1,10 @@
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\bin\Debug\MySql.Data.dll
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\obj\Debug\Exercise1.Form1.resources
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\obj\Debug\Exercise1.Properties.Resources.resources
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\obj\Debug\Exercise1.csproj.GenerateResource.Cache
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
