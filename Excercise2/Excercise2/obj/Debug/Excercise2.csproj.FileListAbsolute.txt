@@ -1,0 +1,9 @@
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\bin\Debug\Excercise2.exe.config
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\bin\Debug\Excercise2.exe
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\bin\Debug\Excercise2.pdb
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\obj\Debug\Excercise2.Form1.resources
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\obj\Debug\Excercise2.Properties.Resources.resources
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\obj\Debug\Excercise2.csproj.GenerateResource.Cache
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\obj\Debug\Excercise2.exe
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\obj\Debug\Excercise2.pdb
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\bin\Debug\MySql.Data.dll
