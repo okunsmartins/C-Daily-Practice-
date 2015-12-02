@@ -1,0 +1,11 @@
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\bin\Debug\Excercise 3.exe.config
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\bin\Debug\Excercise 3.exe
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\bin\Debug\Excercise 3.pdb
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\bin\Debug\MySql.Data.dll
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\obj\Debug\Excercise 3.csprojResolveAssemblyReference.cache
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\obj\Debug\Excercise_3.Form1.resources
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\obj\Debug\Excercise_3.Properties.Resources.resources
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\obj\Debug\Excercise 3.csproj.GenerateResource.Cache
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\obj\Debug\Excercise 3.exe
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\obj\Debug\Excercise 3.pdb
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise 3\Excercise 3\obj\Debug\Excercise_3.Form2.resources

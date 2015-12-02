@@ -7,3 +7,6 @@ F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Exc
 F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\obj\Debug\Excercise2.exe
 F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\obj\Debug\Excercise2.pdb
 F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2\Excercise2\bin\Debug\MySql.Data.dll
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2 -  Login with Password and Username\Excercise2\bin\Debug\Excercise2.exe.config
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2 -  Login with Password and Username\Excercise2\obj\Debug\Excercise2.exe
+F:\Programming Files\Learning Projects\C# Form Project Excercises\Excercise2 -  Login with Password and Username\Excercise2\obj\Debug\Excercise2.pdb
